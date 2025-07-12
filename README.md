@@ -46,7 +46,8 @@ REAL-TIME-CHAT-APP/
 
 | Login Screen             | Chat Interface           |
 |--------------------------|--------------------------|
-| ![Output 1](./output1.png) | ![Output 2](./output2.png) |
+| | ![Output 1](output1.png)  | ![Output 2](output2.png)   |
+
 
 ---
 
