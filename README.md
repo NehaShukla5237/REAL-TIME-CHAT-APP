@@ -82,12 +82,10 @@ npm start
 Open browser and go to:
 👉 http://localhost:3000
 
-
 👩‍💻 DEVELOPER INFO
 Name: Neha Shukla
-
 Email: nehashukla5237@gmail.com
-
 GitHub: github.com/NehaShukla5237
+
 🙌 ACKNOWLEDGEMENTS
 Special thanks to CodTech IT Solutions and mentor Neela Santosh Kumar for guidance and support throughout the internship.
